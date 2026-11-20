@@ -1,0 +1,8 @@
+node_modules/
+out/
+*.log
+.DS_Store
+assets/fonts/*.ttf
+assets/fonts/*.otf
+assets/fonts/*.woff
+!assets/fonts/README.md
