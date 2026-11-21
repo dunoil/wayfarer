@@ -1,4 +1,4 @@
-Prepared 20 Nov 2026 for posting 21 Nov — repo: https://github.com/dunoil/wayfarer (strip this note when posting; the ### sections below are the form fields).
+Posted 21 Nov 2026 — Discussion: https://github.com/hyper-elements/hyper-elements/discussions/308
 
 ### Which challenge are you entering?
 Hyper Elements Template Challenge (November 2026)
